@@ -1,0 +1,4 @@
+#!/bin/bash
+
+set -e -x
+ln -st ~/.config ~/homeenv/.config/fish
