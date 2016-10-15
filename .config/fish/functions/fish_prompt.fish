@@ -82,7 +82,7 @@ function fish_prompt --description 'Write out the prompt'
 
   # USER@HOST
   set_color -o blue
-  echo -n "$__fish_color_user $USER@$__fish_prompt_hostname "
+  echo -n "$__fish_color_user$USER@$__fish_prompt_hostname "
   set_color normal
 
 	# PWD
