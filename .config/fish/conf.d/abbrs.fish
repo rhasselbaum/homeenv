@@ -6,5 +6,6 @@ if not set -q fish_abbrs_initialized
   abbr -a gemenon ssh rob@gemenon.hasselbaum.net
   abbr -a periwinkle ssh rob@periwinkle.hasselbaum.net
   abbr -a waypoint ssh rob@waypoint.hasselbaum.net
+  abbr -a llt ls -aFlt | head
   set -U fish_abbrs_initialized
 end
