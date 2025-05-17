@@ -4,6 +4,7 @@ if status --is-interactive
   abbr -a caprica ssh rob@caprica.hasselbaum.net
   abbr -a gemenon ssh rob@gemenon.hasselbaum.net
   abbr -a amethyst ssh rob@amethyst.hasselbaum.net
+  abbr -a picon ssh rob@picon.hasselbaum.net
   abbr -a aquaria ssh rob@aquaria.hasselbaum.net
   abbr -a llt 'ls -aFlt | head'
 end
